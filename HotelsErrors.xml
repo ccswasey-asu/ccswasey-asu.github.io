@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Hotel Valley Ho</Name>
+    <Phone>480-248-2000</Phone>
+    <Address>
+      <Number>6850</Number>
+      <Street>E Main St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Moxy Phoenix Tempe</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1333</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>Arizona Grand Resort</Name>
+    <Phone>602-438-9000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>8000</Number>
+      <Street>S Arizona Grand Pkwy</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85044</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1">
+    <Name>Kimpton Hotel Palomar</Name>
+    <Phone>480-478-1515</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2</Number>
+      <Street>E Jefferson St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Tempest</Name>
+    <Name>Hotel Tempest, Wyndam</Name>
+    <Phone>602-875-8000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1375</Number>
+      <Street>E. University Dr.</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.8">
+    <Name>Royal Palms Resort</Name>
+    <Phone>602-283-1234</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>5200</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85018</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>JW Marriott Scottsdale</Name>
+    <Phone>480-293-5000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>5350</Number>
+      <Street>E Marriott Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85254</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Omni Scottsdale Resort</Name>
+    <Phone>480-627-3200</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4949</Number>
+      <Street>E Lincoln Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Graduate Tempe</Name>
+    <Phone>480-967-9431</Phone>
+    <Phone>866-421-2378</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>225</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
